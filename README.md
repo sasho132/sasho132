@@ -1,7 +1,6 @@
 <h2 align="center">👋 Hello! I'm Alexander.</h2>
 
 -   🌱 I’m currently learning in SoftUni.
--   💬 Ask me about anything, i am happy to help.
 -   📫 How to reach me: [LinkedIn](www.linkedin.com/in/aleksandar-petrov-b24021261)
 
 ---
