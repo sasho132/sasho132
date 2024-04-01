@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm Alexander.</h2>
 
--   📫 How to reach me: [LinkedIn](www.linkedin.com/in/aleksandar-petrov-b24021261)
+-   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aleksandar-petrov-b24021261/)
 
 ---
 
